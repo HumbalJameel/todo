@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbarr{
+    width: 100%;
+    height: 120px;
+    border: 6px solid black; 
+    background-color: green;  
+}
+#head{
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+}
+.bgBlue{
+    background-color: blue;
+}
+.textColor{
+    color: red;
+}
+.input{
+    font-style: italic;
+    font-weight: 300;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    border-bottom: 5px solid black;
+    height: 80px;
+    margin-top: 30px;
+}
+#on{
+    width: 250px;
+    height: 50px;
+    margin-top: 40px;
+    border-radius: 6px;
+    border: 1px solid black;
+    background-color: green;
+    margin-right: 17px;
+}
+#on:hover{
+    box-shadow: rgb(74, 189, 74) 2px 2px 2px 2px;
+}
+#ons{
+    width: 250px;
+    height: 50px;
+    margin-top: 40px;
+    border-radius: 6px;
+    border: 1px solid black;
+    background-color: red;
+}
+#ons:hover{
+    box-shadow: rgb(220, 86, 86) 2px 2px 2px 2px;
+}
+#bn{
+    padding-left: 360px;
+}
+#ad{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: 7px;
+}
+#ads{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: 7px; 
+}
+#foo{
+    width: 100%;
+    height: 90px;
+    border: 1px solid black;
+    background-color: black;
+    margin-top: 295px;
+}
